@@ -1,0 +1,3 @@
+- [Solar insolation map](https://www.altestore.com/howto/solar-insolation-map-usa-a44/)
+- [PVWatts](https://pvwatts.nrel.gov/)
+- [Solar forecast?](https://solcast.com/solar-radiation-map/north-america/#gosn10min)

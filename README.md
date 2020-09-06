@@ -1,8 +1,6 @@
 # Solar Panel Forecast
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/solar-panel-forecast/tree/master/master?urlpath=lab) Fred
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rogeramitchell/solar-panel-forecast/tree/master/master?urlpath=lab) Roger
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rogeramitchell/solar-panel-forecast/tree/master/master?urlpath=lab) 
 
 ## Overview 
 

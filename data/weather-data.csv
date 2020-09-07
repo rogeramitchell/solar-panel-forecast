@@ -1,4 +1,359 @@
 ﻿Location Name,Date,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+"Jaffrey, NH (KAFN)",8/3/20,12:13 AM,76 F,72 F,87 %,SSW,12 mph,0 mph,28.79 in,0.0 in,Thunder
+"Jaffrey, NH (KAFN)",8/3/20,12:28 AM,76 F,73 F,91 %,SSW,10 mph,0 mph,28.79 in,0.1 in,Light Rain
+"Jaffrey, NH (KAFN)",8/3/20,12:41 AM,76 F,72 F,87 %,SSW,8 mph,0 mph,28.79 in,0.1 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,12:46 AM,75 F,73 F,94 %,S,6 mph,0 mph,28.79 in,0.1 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,12:52 AM,76 F,73 F,91 %,SSW,8 mph,0 mph,28.79 in,0.1 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,12:59 AM,76 F,73 F,91 %,SSW,7 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,1:08 AM,76 F,73 F,91 %,SSW,9 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,1:31 AM,76 F,73 F,91 %,SSW,8 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,1:52 AM,76 F,73 F,91 %,SSW,7 mph,0 mph,28.78 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,2:20 AM,76 F,73 F,91 %,SSW,9 mph,0 mph,28.78 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,2:52 AM,76 F,72 F,87 %,SSW,7 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,3:01 AM,76 F,72 F,87 %,VAR,7 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,3:48 AM,75 F,72 F,89 %,SW,8 mph,0 mph,28.78 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,3:52 AM,75 F,72 F,90 %,SSW,8 mph,0 mph,28.78 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,4:27 AM,75 F,71 F,87 %,SSW,7 mph,0 mph,28.78 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,4:48 AM,75 F,72 F,89 %,SSW,8 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,4:52 AM,75 F,71 F,87 %,S,9 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,5:35 AM,74 F,70 F,87 %,SSW,7 mph,0 mph,28.79 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,5:52 AM,74 F,70 F,87 %,SSW,8 mph,0 mph,28.80 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,6:52 AM,74 F,69 F,85 %,VAR,7 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,7:52 AM,74 F,68 F,82 %,SW,8 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,8:52 AM,74 F,65 F,73 %,VAR,7 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,9:45 AM,76 F,63 F,64 %,VAR,7 mph,22 mph,28.86 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,9:52 AM,75 F,63 F,66 %,SW,8 mph,0 mph,28.86 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,10:16 AM,75 F,62 F,64 %,WSW,8 mph,0 mph,28.87 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,10:52 AM,78 F,61 F,56 %,WSW,15 mph,21 mph,28.88 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,11:52 AM,81 F,61 F,50 %,WSW,9 mph,24 mph,28.89 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,12:52 PM,81 F,60 F,49 %,W,10 mph,21 mph,28.89 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,1:52 PM,83 F,60 F,46 %,W,12 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,2:52 PM,83 F,61 F,47 %,W,9 mph,16 mph,28.91 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,3:52 PM,82 F,59 F,45 %,W,10 mph,0 mph,28.92 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/3/20,4:52 PM,82 F,59 F,45 %,W,9 mph,18 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,5:52 PM,81 F,57 F,44 %,W,12 mph,20 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,6:52 PM,80 F,59 F,48 %,W,5 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,7:52 PM,74 F,62 F,66 %,CALM,0 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,8:52 PM,71 F,62 F,73 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,9:52 PM,68 F,62 F,81 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,10:52 PM,67 F,62 F,84 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/3/20,11:52 PM,68 F,62 F,81 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/4/20,12:52 AM,67 F,62 F,84 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,1:52 AM,67 F,63 F,87 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,2:52 AM,67 F,63 F,87 %,NNE,5 mph,0 mph,28.95 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,3:52 AM,66 F,64 F,93 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/4/20,4:52 AM,67 F,64 F,90 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/4/20,5:52 AM,67 F,64 F,90 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,6:52 AM,67 F,64 F,90 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,7:52 AM,68 F,65 F,90 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,8:52 AM,69 F,65 F,87 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,9:52 AM,70 F,65 F,84 %,VAR,3 mph,0 mph,28.97 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,10:52 AM,72 F,66 F,81 %,VAR,3 mph,0 mph,28.95 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,11:12 AM,73 F,66 F,79 %,CALM,0 mph,0 mph,28.96 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,11:52 AM,75 F,67 F,76 %,VAR,5 mph,0 mph,28.93 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,12:52 PM,74 F,68 F,82 %,VAR,3 mph,0 mph,28.91 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,1:17 PM,75 F,68 F,79 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,1:38 PM,74 F,68 F,82 %,VAR,7 mph,0 mph,28.87 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,1:52 PM,75 F,68 F,79 %,VAR,6 mph,0 mph,28.85 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,2:19 PM,73 F,68 F,84 %,,0 mph,0 mph,28.82 in,0.1 in,Heavy Rain
+"Jaffrey, NH (KAFN)",8/4/20,2:26 PM,72 F,67 F,84 %,VAR,5 mph,0 mph,28.82 in,0.2 in,Light Rain
+"Jaffrey, NH (KAFN)",8/4/20,2:38 PM,72 F,69 F,91 %,CALM,0 mph,0 mph,28.79 in,0.2 in,Light Rain
+"Jaffrey, NH (KAFN)",8/4/20,2:44 PM,73 F,70 F,90 %,VAR,7 mph,0 mph,28.79 in,0.2 in,Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,2:52 PM,74 F,70 F,87 %,VAR,5 mph,0 mph,28.77 in,0.3 in,Light Rain
+"Jaffrey, NH (KAFN)",8/4/20,3:23 PM,75 F,70 F,84 %,VAR,6 mph,0 mph,28.73 in,0.1 in,Light Rain
+"Jaffrey, NH (KAFN)",8/4/20,3:25 PM,75 F,70 F,84 %,VAR,6 mph,0 mph,28.73 in,0.1 in,Heavy Rain
+"Jaffrey, NH (KAFN)",8/4/20,3:34 PM,74 F,69 F,85 %,VAR,6 mph,0 mph,28.71 in,0.1 in,Light Rain
+"Jaffrey, NH (KAFN)",8/4/20,3:52 PM,73 F,69 F,87 %,,0 mph,0 mph,28.67 in,0.1 in,Light Rain
+"Jaffrey, NH (KAFN)",8/4/20,4:26 PM,74 F,69 F,85 %,SE,10 mph,24 mph,28.62 in,0.1 in,Heavy Rain
+"Jaffrey, NH (KAFN)",8/4/20,4:37 PM,74 F,69 F,85 %,SE,12 mph,23 mph,28.61 in,0.1 in,Light Rain
+"Jaffrey, NH (KAFN)",8/4/20,4:49 PM,73 F,70 F,88 %,SSE,9 mph,25 mph,28.59 in,0.2 in,Light Rain
+"Jaffrey, NH (KAFN)",8/4/20,4:59 PM,73 F,70 F,90 %,VAR,7 mph,17 mph,28.58 in,0.0 in,Rain
+"Jaffrey, NH (KAFN)",8/4/20,5:08 PM,74 F,70 F,87 %,SSE,13 mph,26 mph,28.60 in,0.1 in,Rain
+"Jaffrey, NH (KAFN)",8/4/20,5:20 PM,75 F,70 F,84 %,SSE,13 mph,28 mph,28.57 in,0.1 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,5:52 PM,75 F,69 F,82 %,SSE,17 mph,30 mph,28.53 in,0.1 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,6:52 PM,70 F,65 F,84 %,SSE,22 mph,39 mph,28.53 in,0.0 in,Light Rain / Windy
+"Jaffrey, NH (KAFN)",8/4/20,7:52 PM,69 F,64 F,84 %,S,20 mph,31 mph,28.55 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,8:08 PM,69 F,64 F,84 %,S,17 mph,33 mph,28.56 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,8:15 PM,69 F,64 F,84 %,S,21 mph,33 mph,28.57 in,0.0 in,Cloudy / Windy
+"Jaffrey, NH (KAFN)",8/4/20,8:52 PM,69 F,64 F,84 %,SSW,22 mph,46 mph,28.61 in,0.0 in,Light Rain / Windy
+"Jaffrey, NH (KAFN)",8/4/20,9:07 PM,69 F,64 F,84 %,SW,23 mph,40 mph,28.64 in,0.0 in,Cloudy / Windy
+"Jaffrey, NH (KAFN)",8/4/20,9:52 PM,69 F,64 F,84 %,SSW,15 mph,28 mph,28.71 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,10:33 PM,68 F,63 F,84 %,SSW,12 mph,22 mph,28.74 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,10:52 PM,68 F,63 F,84 %,SSW,10 mph,20 mph,28.75 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/4/20,11:52 PM,67 F,63 F,87 %,SSW,12 mph,20 mph,28.78 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,12:52 AM,66 F,62 F,87 %,SSW,8 mph,18 mph,28.80 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,1:52 AM,66 F,62 F,87 %,SSW,6 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,2:52 AM,65 F,62 F,90 %,SSW,5 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,3:52 AM,65 F,62 F,90 %,SSW,3 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,4:52 AM,65 F,62 F,90 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,5:52 AM,64 F,62 F,93 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,6:00 AM,64 F,61 F,90 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,6:52 AM,66 F,63 F,90 %,SSW,5 mph,0 mph,28.87 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,7:04 AM,66 F,63 F,90 %,VAR,3 mph,0 mph,28.87 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,7:19 AM,66 F,63 F,90 %,SW,3 mph,0 mph,28.87 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,7:26 AM,67 F,64 F,90 %,VAR,5 mph,0 mph,28.88 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,7:52 AM,69 F,64 F,84 %,SW,5 mph,0 mph,28.88 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,8:05 AM,69 F,64 F,84 %,WSW,6 mph,0 mph,28.89 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,8:18 AM,70 F,64 F,81 %,SW,7 mph,0 mph,28.89 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,8:52 AM,72 F,63 F,73 %,WSW,6 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,9:52 AM,76 F,61 F,60 %,SW,8 mph,18 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,10:52 AM,76 F,62 F,62 %,SW,7 mph,0 mph,28.91 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,11:52 AM,77 F,62 F,60 %,CALM,0 mph,0 mph,28.91 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,12:52 PM,81 F,62 F,52 %,S,10 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,1:52 PM,80 F,61 F,52 %,VAR,6 mph,0 mph,28.90 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,2:52 PM,80 F,61 F,52 %,W,5 mph,0 mph,28.89 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,3:52 PM,82 F,60 F,47 %,W,9 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,4:52 PM,82 F,59 F,45 %,W,9 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,5:52 PM,80 F,59 F,48 %,WNW,8 mph,0 mph,28.90 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,6:52 PM,78 F,57 F,48 %,WNW,8 mph,0 mph,28.92 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/5/20,7:52 PM,73 F,56 F,55 %,CALM,0 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,8:52 PM,66 F,57 F,73 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,9:52 PM,64 F,56 F,75 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,10:52 PM,60 F,56 F,86 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/5/20,11:52 PM,59 F,55 F,87 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,12:52 AM,58 F,55 F,90 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,1:52 AM,56 F,54 F,93 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,2:52 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,3:52 AM,56 F,54 F,93 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,4:52 AM,56 F,53 F,90 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,5:52 AM,57 F,54 F,89 %,SSE,3 mph,0 mph,29.01 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,6:52 AM,58 F,54 F,87 %,SSE,3 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,7:52 AM,63 F,55 F,75 %,CALM,0 mph,0 mph,29.03 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,8:52 AM,69 F,53 F,57 %,W,8 mph,0 mph,29.03 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,9:52 AM,71 F,51 F,49 %,WNW,8 mph,17 mph,29.04 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,10:52 AM,72 F,52 F,49 %,W,10 mph,0 mph,29.05 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,11:52 AM,74 F,54 F,50 %,VAR,6 mph,0 mph,29.04 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,12:52 PM,76 F,52 F,43 %,VAR,6 mph,0 mph,29.04 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,1:52 PM,77 F,51 F,40 %,W,8 mph,0 mph,29.03 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,2:52 PM,78 F,52 F,40 %,W,8 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,3:52 PM,78 F,51 F,39 %,NW,5 mph,0 mph,29.01 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,4:52 PM,78 F,52 F,40 %,VAR,6 mph,0 mph,29.01 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,5:52 PM,77 F,50 F,39 %,VAR,6 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,6:52 PM,76 F,51 F,42 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,7:52 PM,68 F,58 F,70 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,8:52 PM,62 F,57 F,84 %,CALM,0 mph,0 mph,29.03 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,9:52 PM,60 F,56 F,86 %,CALM,0 mph,0 mph,29.05 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,10:52 PM,58 F,55 F,90 %,CALM,0 mph,0 mph,29.06 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/6/20,11:52 PM,57 F,54 F,89 %,CALM,0 mph,0 mph,29.06 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/7/20,12:52 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,29.07 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,1:52 AM,56 F,54 F,93 %,CALM,0 mph,0 mph,29.07 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/7/20,2:52 AM,56 F,53 F,90 %,CALM,0 mph,0 mph,29.06 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/7/20,3:52 AM,55 F,52 F,89 %,CALM,0 mph,0 mph,29.06 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/7/20,4:52 AM,55 F,52 F,89 %,CALM,0 mph,0 mph,29.07 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,5:52 AM,55 F,52 F,89 %,CALM,0 mph,0 mph,29.07 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/7/20,6:52 AM,57 F,54 F,89 %,CALM,0 mph,0 mph,29.09 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,7:52 AM,61 F,55 F,81 %,CALM,0 mph,0 mph,29.10 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,8:52 AM,64 F,56 F,75 %,CALM,0 mph,0 mph,29.11 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,9:52 AM,68 F,55 F,63 %,VAR,3 mph,0 mph,29.12 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,10:52 AM,70 F,58 F,65 %,CALM,0 mph,0 mph,29.11 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,11:52 AM,76 F,54 F,46 %,VAR,3 mph,0 mph,29.09 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,12:52 PM,76 F,52 F,43 %,VAR,3 mph,0 mph,29.08 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,1:52 PM,76 F,55 F,48 %,SE,3 mph,0 mph,29.08 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,2:52 PM,79 F,57 F,47 %,SSE,5 mph,0 mph,29.07 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/7/20,3:52 PM,77 F,57 F,50 %,VAR,3 mph,0 mph,29.07 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,4:52 PM,76 F,58 F,54 %,S,5 mph,0 mph,29.06 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,5:52 PM,77 F,59 F,54 %,CALM,0 mph,0 mph,29.05 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,6:52 PM,74 F,59 F,59 %,CALM,0 mph,0 mph,29.05 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,7:52 PM,71 F,61 F,70 %,CALM,0 mph,0 mph,29.06 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/7/20,8:52 PM,69 F,59 F,70 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/7/20,9:52 PM,65 F,59 F,81 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/7/20,10:52 PM,65 F,59 F,81 %,CALM,0 mph,0 mph,29.07 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/7/20,11:52 PM,64 F,59 F,84 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,12:52 AM,62 F,59 F,90 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,1:52 AM,61 F,58 F,90 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/8/20,2:52 AM,62 F,59 F,90 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,3:52 AM,62 F,59 F,90 %,CALM,0 mph,0 mph,29.07 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,4:52 AM,61 F,59 F,93 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,5:52 AM,61 F,59 F,93 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,6:52 AM,63 F,59 F,87 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,7:52 AM,66 F,59 F,78 %,CALM,0 mph,0 mph,29.10 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,8:52 AM,67 F,60 F,79 %,NNE,3 mph,0 mph,29.11 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,9:52 AM,70 F,60 F,71 %,CALM,0 mph,0 mph,29.11 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,10:52 AM,75 F,57 F,53 %,VAR,3 mph,0 mph,29.08 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/8/20,11:52 AM,77 F,57 F,50 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,12:52 PM,78 F,57 F,48 %,S,6 mph,0 mph,29.07 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/8/20,1:52 PM,81 F,56 F,42 %,VAR,3 mph,0 mph,29.06 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/8/20,2:52 PM,82 F,56 F,41 %,VAR,5 mph,0 mph,29.05 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,3:52 PM,81 F,57 F,44 %,SW,7 mph,0 mph,29.03 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/8/20,4:52 PM,83 F,57 F,41 %,VAR,5 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/8/20,5:52 PM,81 F,59 F,47 %,S,3 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/8/20,6:52 PM,79 F,61 F,54 %,CALM,0 mph,0 mph,29.01 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,7:52 PM,72 F,65 F,78 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/8/20,8:52 PM,69 F,63 F,81 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/8/20,9:52 PM,66 F,62 F,87 %,S,3 mph,0 mph,29.03 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/8/20,10:52 PM,67 F,63 F,87 %,S,3 mph,0 mph,29.04 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/8/20,11:52 PM,65 F,62 F,90 %,CALM,0 mph,0 mph,29.04 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,12:52 AM,65 F,62 F,90 %,CALM,0 mph,0 mph,29.04 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,1:52 AM,64 F,62 F,93 %,CALM,0 mph,0 mph,29.03 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,2:52 AM,63 F,61 F,93 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,2:59 AM,63 F,61 F,93 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,3:08 AM,63 F,61 F,93 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,3:32 AM,64 F,62 F,93 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,3:50 AM,64 F,63 F,94 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,3:52 AM,65 F,62 F,90 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,4:15 AM,66 F,64 F,93 %,SSW,6 mph,0 mph,29.02 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/9/20,4:17 AM,66 F,64 F,93 %,SSW,6 mph,0 mph,29.02 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/9/20,4:25 AM,66 F,65 F,96 %,SSW,5 mph,0 mph,29.02 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/9/20,4:52 AM,66 F,65 F,96 %,SSW,5 mph,0 mph,29.02 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/9/20,5:52 AM,67 F,65 F,93 %,S,6 mph,0 mph,29.03 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/9/20,6:52 AM,67 F,66 F,97 %,SSW,5 mph,0 mph,29.03 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/9/20,7:06 AM,67 F,66 F,97 %,SSW,5 mph,0 mph,29.03 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/9/20,7:11 AM,67 F,65 F,93 %,VAR,7 mph,0 mph,29.03 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/9/20,7:21 AM,67 F,65 F,93 %,SSW,7 mph,0 mph,29.03 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,7:52 AM,67 F,65 F,93 %,SSW,6 mph,0 mph,29.03 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,8:52 AM,69 F,65 F,87 %,VAR,3 mph,0 mph,29.03 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,9:23 AM,71 F,66 F,84 %,SW,7 mph,0 mph,29.02 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,9:38 AM,73 F,66 F,79 %,SSW,8 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,9:52 AM,74 F,66 F,76 %,S,7 mph,0 mph,29.01 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,10:52 AM,80 F,65 F,60 %,VAR,3 mph,0 mph,29.01 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,11:52 AM,82 F,62 F,51 %,,0 mph,0 mph,28.99 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,12:52 PM,82 F,64 F,54 %,VAR,3 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,1:52 PM,84 F,60 F,44 %,S,5 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,2:52 PM,84 F,61 F,46 %,SSW,8 mph,20 mph,28.96 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,3:52 PM,84 F,62 F,47 %,VAR,6 mph,0 mph,28.95 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,4:52 PM,84 F,63 F,49 %,VAR,3 mph,0 mph,28.94 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,5:52 PM,83 F,64 F,53 %,SSW,6 mph,0 mph,28.93 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/9/20,6:52 PM,83 F,64 F,53 %,SW,5 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,7:52 PM,79 F,64 F,60 %,SSW,3 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,8:52 PM,73 F,65 F,76 %,S,3 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,9:52 PM,70 F,65 F,84 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,10:52 PM,69 F,65 F,87 %,S,3 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/9/20,11:52 PM,72 F,65 F,78 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,12:52 AM,71 F,65 F,81 %,SSW,6 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,1:52 AM,70 F,65 F,84 %,SSW,5 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,2:52 AM,69 F,66 F,90 %,S,3 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,3:52 AM,67 F,65 F,93 %,CALM,0 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,4:52 AM,68 F,65 F,90 %,SSW,5 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,5:00 AM,68 F,66 F,93 %,SSW,5 mph,0 mph,28.94 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/10/20,5:09 AM,68 F,66 F,93 %,SSW,5 mph,0 mph,28.94 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/10/20,5:13 AM,68 F,66 F,93 %,SW,5 mph,0 mph,28.94 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/10/20,5:24 AM,68 F,66 F,93 %,SSW,6 mph,0 mph,28.94 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/10/20,5:34 AM,68 F,67 F,96 %,SW,6 mph,0 mph,28.94 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/10/20,5:44 AM,68 F,66 F,93 %,SSW,6 mph,0 mph,28.94 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/10/20,5:52 AM,68 F,67 F,96 %,SSW,5 mph,0 mph,28.94 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/10/20,5:58 AM,68 F,66 F,93 %,SSW,7 mph,0 mph,28.94 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/10/20,6:01 AM,68 F,66 F,93 %,SSW,6 mph,0 mph,28.95 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/10/20,6:52 AM,68 F,66 F,93 %,SW,3 mph,0 mph,28.96 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/10/20,7:10 AM,68 F,67 F,96 %,CALM,0 mph,0 mph,28.96 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/10/20,7:15 AM,68 F,67 F,96 %,VAR,3 mph,0 mph,28.96 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/10/20,7:24 AM,68 F,66 F,93 %,VAR,5 mph,0 mph,28.96 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/10/20,7:52 AM,68 F,66 F,93 %,S,6 mph,0 mph,28.96 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/10/20,8:06 AM,69 F,66 F,90 %,CALM,0 mph,0 mph,28.96 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/10/20,8:52 AM,74 F,65 F,73 %,VAR,3 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,9:52 AM,77 F,65 F,66 %,VAR,5 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,10:52 AM,82 F,65 F,56 %,VAR,7 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,11:52 AM,84 F,64 F,51 %,VAR,5 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,12:52 PM,84 F,65 F,53 %,WSW,7 mph,0 mph,28.92 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,1:52 PM,85 F,65 F,51 %,VAR,5 mph,0 mph,28.91 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/10/20,2:52 PM,87 F,66 F,49 %,W,7 mph,0 mph,28.90 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/10/20,3:52 PM,88 F,66 F,48 %,VAR,5 mph,0 mph,28.88 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/10/20,4:52 PM,88 F,65 F,46 %,VAR,6 mph,0 mph,28.87 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/10/20,5:52 PM,86 F,65 F,49 %,W,7 mph,0 mph,28.87 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,6:52 PM,83 F,67 F,58 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,7:52 PM,81 F,68 F,65 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/10/20,8:52 PM,76 F,69 F,79 %,S,3 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,9:52 PM,77 F,67 F,71 %,S,3 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,10:52 PM,73 F,68 F,84 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/10/20,11:52 PM,73 F,68 F,84 %,SSW,5 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,12:52 AM,72 F,68 F,87 %,S,3 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,1:52 AM,70 F,67 F,90 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,2:52 AM,69 F,66 F,90 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,3:52 AM,69 F,66 F,90 %,S,3 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,4:52 AM,68 F,65 F,90 %,S,3 mph,0 mph,28.88 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,5:52 AM,67 F,65 F,93 %,S,3 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,6:52 AM,69 F,66 F,90 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,7:52 AM,73 F,66 F,79 %,S,3 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,8:52 AM,76 F,67 F,74 %,VAR,3 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,9:52 AM,79 F,68 F,69 %,SSW,5 mph,0 mph,28.91 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,10:52 AM,83 F,69 F,63 %,SSW,9 mph,0 mph,28.91 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,11:52 AM,84 F,69 F,61 %,SW,7 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,12:52 PM,87 F,66 F,49 %,VAR,6 mph,0 mph,28.88 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,1:52 PM,88 F,65 F,46 %,SSW,12 mph,18 mph,28.86 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,2:52 PM,88 F,66 F,48 %,SSW,9 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,3:52 PM,89 F,65 F,45 %,S,12 mph,17 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,4:52 PM,88 F,64 F,45 %,SSW,9 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,5:52 PM,88 F,65 F,46 %,S,8 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,6:52 PM,84 F,67 F,56 %,SSW,6 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,7:52 PM,82 F,67 F,60 %,S,6 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,8:52 PM,80 F,66 F,62 %,SSW,10 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,9:52 PM,78 F,65 F,64 %,SSW,7 mph,0 mph,28.86 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,10:52 PM,76 F,66 F,71 %,SSW,7 mph,0 mph,28.87 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/11/20,11:52 PM,75 F,68 F,79 %,SSW,8 mph,0 mph,28.87 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,12:52 AM,75 F,68 F,79 %,VAR,6 mph,0 mph,28.88 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,1:28 AM,75 F,69 F,82 %,SSW,8 mph,0 mph,28.87 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,1:52 AM,74 F,69 F,85 %,SW,7 mph,0 mph,28.87 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,2:37 AM,74 F,69 F,85 %,SW,7 mph,0 mph,28.87 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,2:52 AM,74 F,69 F,85 %,SSW,8 mph,0 mph,28.87 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,2:59 AM,74 F,69 F,85 %,SSW,7 mph,0 mph,28.87 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,3:52 AM,73 F,69 F,87 %,SW,6 mph,0 mph,28.88 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,4:52 AM,73 F,68 F,84 %,SW,6 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,5:52 AM,72 F,66 F,81 %,W,3 mph,0 mph,28.91 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,6:52 AM,71 F,66 F,84 %,CALM,0 mph,0 mph,28.92 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,7:52 AM,74 F,66 F,76 %,VAR,3 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,8:52 AM,77 F,64 F,64 %,VAR,5 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,9:52 AM,78 F,65 F,64 %,VAR,3 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,10:52 AM,81 F,64 F,56 %,VAR,6 mph,0 mph,28.96 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,11:52 AM,82 F,64 F,54 %,W,10 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,12:52 PM,83 F,63 F,51 %,W,7 mph,0 mph,28.96 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,1:52 PM,85 F,63 F,48 %,WNW,7 mph,0 mph,28.95 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,2:52 PM,86 F,62 F,44 %,VAR,5 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,3:52 PM,87 F,63 F,44 %,WNW,3 mph,0 mph,28.94 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,4:52 PM,85 F,61 F,44 %,WNW,8 mph,0 mph,28.95 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/12/20,5:52 PM,86 F,62 F,44 %,VAR,5 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,6:52 PM,84 F,62 F,47 %,CALM,0 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,7:52 PM,76 F,66 F,71 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,8:52 PM,72 F,64 F,76 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,9:52 PM,69 F,64 F,84 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,10:52 PM,67 F,62 F,84 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/12/20,11:52 PM,65 F,61 F,87 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,12:52 AM,64 F,61 F,90 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,1:52 AM,63 F,60 F,90 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,2:52 AM,61 F,58 F,90 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,3:52 AM,60 F,57 F,90 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,4:52 AM,59 F,56 F,90 %,CALM,0 mph,0 mph,29.03 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,5:52 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,29.03 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,6:52 AM,59 F,56 F,90 %,CALM,0 mph,0 mph,29.04 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,7:52 AM,65 F,61 F,87 %,CALM,0 mph,0 mph,29.05 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,8:52 AM,74 F,60 F,62 %,CALM,0 mph,0 mph,29.05 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,9:52 AM,78 F,59 F,52 %,VAR,3 mph,0 mph,29.05 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,10:52 AM,79 F,58 F,48 %,CALM,0 mph,0 mph,29.05 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,11:52 AM,81 F,59 F,47 %,VAR,7 mph,0 mph,29.04 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,12:52 PM,83 F,56 F,39 %,VAR,3 mph,0 mph,29.03 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,1:52 PM,83 F,57 F,41 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,2:52 PM,84 F,58 F,41 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/13/20,3:52 PM,82 F,56 F,41 %,VAR,3 mph,0 mph,29.02 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,4:52 PM,82 F,58 F,44 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,5:52 PM,79 F,63 F,58 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,6:52 PM,80 F,60 F,50 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,7:52 PM,74 F,64 F,71 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,8:52 PM,69 F,64 F,84 %,CALM,0 mph,0 mph,29.01 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,9:52 PM,67 F,63 F,87 %,CALM,0 mph,0 mph,29.01 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,10:52 PM,65 F,62 F,90 %,CALM,0 mph,0 mph,29.01 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/13/20,11:52 PM,64 F,61 F,90 %,CALM,0 mph,0 mph,29.01 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,12:52 AM,63 F,60 F,90 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,1:52 AM,62 F,59 F,90 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,2:52 AM,61 F,58 F,90 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,3:52 AM,60 F,57 F,90 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,4:52 AM,59 F,56 F,90 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/14/20,5:52 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,6:52 AM,60 F,57 F,90 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,7:52 AM,66 F,61 F,84 %,CALM,0 mph,0 mph,29.01 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,8:52 AM,72 F,61 F,68 %,VAR,5 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,9:52 AM,76 F,59 F,56 %,VAR,5 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,10:52 AM,79 F,56 F,45 %,,0 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,11:52 AM,79 F,57 F,47 %,VAR,3 mph,0 mph,29.00 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,12:52 PM,81 F,57 F,44 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,1:52 PM,82 F,58 F,44 %,VAR,5 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,2:52 PM,83 F,56 F,39 %,VAR,3 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,3:52 PM,84 F,56 F,38 %,VAR,3 mph,0 mph,28.96 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/14/20,4:52 PM,83 F,55 F,38 %,E,5 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,5:52 PM,81 F,55 F,41 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/14/20,6:52 PM,80 F,57 F,45 %,VAR,3 mph,0 mph,28.95 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/14/20,7:52 PM,73 F,57 F,57 %,CALM,0 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,8:52 PM,69 F,56 F,63 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,9:52 PM,65 F,56 F,73 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,10:52 PM,62 F,56 F,80 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/14/20,11:52 PM,61 F,56 F,83 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Fair
 "Rockland, ME (KRKD)",8/15/20,12:56 AM,69 F,61 F,75 %,NE,9 mph,0 mph,30.00 in,0.0 in,Fair
 "Rockland, ME (KRKD)",8/15/20,1:56 AM,68 F,62 F,81 %,NE,8 mph,0 mph,30.00 in,0.0 in,Fair
 "Rockland, ME (KRKD)",8/15/20,2:56 AM,67 F,63 F,87 %,NE,12 mph,0 mph,30.00 in,0.0 in,Fair
@@ -55,99 +410,294 @@
 "Rockland, ME (KRKD)",8/16/20,9:56 PM,64 F,58 F,80 %,ENE,6 mph,0 mph,29.96 in,0.0 in,Fair
 "Rockland, ME (KRKD)",8/16/20,10:56 PM,64 F,58 F,80 %,ENE,6 mph,0 mph,29.95 in,0.0 in,Fair
 "Rockland, ME (KRKD)",8/16/20,11:56 PM,63 F,58 F,84 %,ENE,7 mph,0 mph,29.94 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,12:52 AM,66 F,62 F,87 %,SSW,8 mph,18 mph,28.80 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,1:52 AM,66 F,62 F,87 %,SSW,6 mph,0 mph,28.82 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,2:52 AM,65 F,62 F,90 %,SSW,5 mph,0 mph,28.82 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,3:52 AM,65 F,62 F,90 %,SSW,3 mph,0 mph,28.83 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,4:52 AM,65 F,62 F,90 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,5:52 AM,64 F,62 F,93 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,6:00 AM,64 F,61 F,90 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,6:52 AM,66 F,63 F,90 %,SSW,5 mph,0 mph,28.87 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,7:04 AM,66 F,63 F,90 %,VAR,3 mph,0 mph,28.87 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,7:19 AM,66 F,63 F,90 %,SW,3 mph,0 mph,28.87 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,7:26 AM,67 F,64 F,90 %,VAR,5 mph,0 mph,28.88 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,7:52 AM,69 F,64 F,84 %,SW,5 mph,0 mph,28.88 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,8:05 AM,69 F,64 F,84 %,WSW,6 mph,0 mph,28.89 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,8:18 AM,70 F,64 F,81 %,SW,7 mph,0 mph,28.89 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,8:52 AM,72 F,63 F,73 %,WSW,6 mph,0 mph,28.90 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,9:52 AM,76 F,61 F,60 %,SW,8 mph,18 mph,28.90 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,10:52 AM,76 F,62 F,62 %,SW,7 mph,0 mph,28.91 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,11:52 AM,77 F,62 F,60 %,CALM,0 mph,0 mph,28.91 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,12:52 PM,81 F,62 F,52 %,S,10 mph,0 mph,28.90 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,1:52 PM,80 F,61 F,52 %,VAR,6 mph,0 mph,28.90 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,2:52 PM,80 F,61 F,52 %,W,5 mph,0 mph,28.89 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,3:52 PM,82 F,60 F,47 %,W,9 mph,0 mph,28.89 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,4:52 PM,82 F,59 F,45 %,W,9 mph,0 mph,28.89 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,5:52 PM,80 F,59 F,48 %,WNW,8 mph,0 mph,28.90 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,6:52 PM,78 F,57 F,48 %,WNW,8 mph,0 mph,28.92 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/5/20,7:52 PM,73 F,56 F,55 %,CALM,0 mph,0 mph,28.93 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,8:52 PM,66 F,57 F,73 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,9:52 PM,64 F,56 F,75 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,10:52 PM,60 F,56 F,86 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/5/20,11:52 PM,59 F,55 F,87 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,12:13 AM,76 F,72 F,87 %,SSW,12 mph,0 mph,28.79 in,0.0 in,Thunder
-"Jaffrey, NH (KAFN)",8/3/20,12:28 AM,76 F,73 F,91 %,SSW,10 mph,0 mph,28.79 in,0.1 in,Light Rain
-"Jaffrey, NH (KAFN)",8/3/20,12:41 AM,76 F,72 F,87 %,SSW,8 mph,0 mph,28.79 in,0.1 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,12:46 AM,75 F,73 F,94 %,S,6 mph,0 mph,28.79 in,0.1 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,12:52 AM,76 F,73 F,91 %,SSW,8 mph,0 mph,28.79 in,0.1 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,12:59 AM,76 F,73 F,91 %,SSW,7 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,1:08 AM,76 F,73 F,91 %,SSW,9 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,1:31 AM,76 F,73 F,91 %,SSW,8 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,1:52 AM,76 F,73 F,91 %,SSW,7 mph,0 mph,28.78 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,2:20 AM,76 F,73 F,91 %,SSW,9 mph,0 mph,28.78 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,2:52 AM,76 F,72 F,87 %,SSW,7 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,3:01 AM,76 F,72 F,87 %,VAR,7 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,3:48 AM,75 F,72 F,89 %,SW,8 mph,0 mph,28.78 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,3:52 AM,75 F,72 F,90 %,SSW,8 mph,0 mph,28.78 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,4:27 AM,75 F,71 F,87 %,SSW,7 mph,0 mph,28.78 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,4:48 AM,75 F,72 F,89 %,SSW,8 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,4:52 AM,75 F,71 F,87 %,S,9 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,5:35 AM,74 F,70 F,87 %,SSW,7 mph,0 mph,28.79 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,5:52 AM,74 F,70 F,87 %,SSW,8 mph,0 mph,28.80 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,6:52 AM,74 F,69 F,85 %,VAR,7 mph,0 mph,28.81 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,7:52 AM,74 F,68 F,82 %,SW,8 mph,0 mph,28.83 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,8:52 AM,74 F,65 F,73 %,VAR,7 mph,0 mph,28.85 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,9:45 AM,76 F,63 F,64 %,VAR,7 mph,22 mph,28.86 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,9:52 AM,75 F,63 F,66 %,SW,8 mph,0 mph,28.86 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,10:16 AM,75 F,62 F,64 %,WSW,8 mph,0 mph,28.87 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,10:52 AM,78 F,61 F,56 %,WSW,15 mph,21 mph,28.88 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,11:52 AM,81 F,61 F,50 %,WSW,9 mph,24 mph,28.89 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,12:52 PM,81 F,60 F,49 %,W,10 mph,21 mph,28.89 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,1:52 PM,83 F,60 F,46 %,W,12 mph,0 mph,28.90 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,2:52 PM,83 F,61 F,47 %,W,9 mph,16 mph,28.91 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,3:52 PM,82 F,59 F,45 %,W,10 mph,0 mph,28.92 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/3/20,4:52 PM,82 F,59 F,45 %,W,9 mph,18 mph,28.93 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,5:52 PM,81 F,57 F,44 %,W,12 mph,20 mph,28.93 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,6:52 PM,80 F,59 F,48 %,W,5 mph,0 mph,28.94 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,7:52 PM,74 F,62 F,66 %,CALM,0 mph,0 mph,28.96 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,8:52 PM,71 F,62 F,73 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,9:52 PM,68 F,62 F,81 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,10:52 PM,67 F,62 F,84 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/3/20,11:52 PM,68 F,62 F,81 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,12:52 AM,66 F,58 F,75 %,VAR,5 mph,0 mph,28.38 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,1:52 AM,64 F,57 F,78 %,VAR,3 mph,0 mph,28.39 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,2:52 AM,63 F,54 F,72 %,W,8 mph,0 mph,28.38 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,3:52 AM,62 F,53 F,72 %,W,6 mph,0 mph,28.39 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,4:52 AM,62 F,52 F,70 %,VAR,3 mph,0 mph,28.39 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,5:52 AM,60 F,52 F,75 %,CALM,0 mph,0 mph,28.41 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,6:52 AM,58 F,53 F,84 %,CALM,0 mph,0 mph,28.44 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,7:52 AM,63 F,54 F,72 %,VAR,5 mph,0 mph,28.46 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,8:52 AM,65 F,52 F,63 %,NW,8 mph,0 mph,28.49 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/30/20,9:52 AM,67 F,51 F,57 %,NNW,10 mph,0 mph,28.53 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/30/20,10:52 AM,66 F,48 F,52 %,VAR,7 mph,20 mph,28.56 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/30/20,11:52 AM,66 F,47 F,50 %,W,9 mph,23 mph,28.58 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/30/20,12:52 PM,66 F,49 F,54 %,NW,8 mph,0 mph,28.60 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/30/20,1:52 PM,66 F,47 F,50 %,NW,9 mph,0 mph,28.63 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/30/20,2:52 PM,68 F,46 F,45 %,WNW,10 mph,25 mph,28.65 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/30/20,3:52 PM,69 F,46 F,44 %,NNW,8 mph,0 mph,28.67 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/30/20,4:52 PM,67 F,44 F,44 %,NW,9 mph,0 mph,28.70 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,5:52 PM,67 F,44 F,44 %,NW,8 mph,16 mph,28.72 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,6:52 PM,65 F,45 F,48 %,VAR,6 mph,0 mph,28.73 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,7:52 PM,61 F,46 F,58 %,CALM,0 mph,0 mph,28.76 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,8:52 PM,54 F,48 F,80 %,SSE,3 mph,0 mph,28.80 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,9:52 PM,53 F,48 F,83 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,10:52 PM,51 F,48 F,89 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/30/20,11:52 PM,49 F,46 F,90 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/17/20,12:06 AM,62 F,58 F,86 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,12:39 AM,62 F,58 F,86 %,CALM,0 mph,0 mph,28.87 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,12:52 AM,62 F,58 F,86 %,CALM,0 mph,0 mph,28.87 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,1:52 AM,61 F,58 F,90 %,VAR,3 mph,0 mph,28.85 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,2:52 AM,61 F,58 F,90 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,3:52 AM,61 F,58 F,90 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,4:39 AM,61 F,57 F,87 %,NNW,3 mph,0 mph,28.83 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,4:52 AM,60 F,57 F,90 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,5:52 AM,60 F,57 F,90 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,6:38 AM,60 F,57 F,90 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,6:52 AM,60 F,57 F,90 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,7:38 AM,62 F,57 F,84 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,7:52 AM,62 F,56 F,80 %,NNW,5 mph,0 mph,28.85 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,8:52 AM,65 F,55 F,70 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,9:36 AM,66 F,56 F,70 %,VAR,3 mph,0 mph,28.83 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,9:43 AM,67 F,56 F,68 %,VAR,3 mph,0 mph,28.83 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,9:52 AM,67 F,56 F,68 %,VAR,5 mph,0 mph,28.83 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,10:11 AM,67 F,56 F,68 %,VAR,3 mph,0 mph,28.83 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,10:52 AM,70 F,56 F,61 %,NW,5 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/17/20,11:52 AM,72 F,55 F,55 %,VAR,5 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/17/20,12:52 PM,75 F,56 F,51 %,VAR,3 mph,0 mph,28.80 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,1:52 PM,76 F,55 F,48 %,VAR,6 mph,0 mph,28.79 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/17/20,2:52 PM,78 F,54 F,43 %,SSE,5 mph,0 mph,28.78 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,3:52 PM,80 F,55 F,42 %,N,3 mph,0 mph,28.76 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,4:52 PM,77 F,56 F,48 %,SSW,3 mph,0 mph,28.75 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,5:52 PM,77 F,58 F,52 %,SSE,5 mph,0 mph,28.75 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,6:52 PM,76 F,58 F,54 %,SSW,5 mph,0 mph,28.74 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,7:52 PM,72 F,59 F,64 %,VAR,6 mph,0 mph,28.75 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,8:52 PM,71 F,59 F,66 %,SSE,7 mph,0 mph,28.77 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,9:17 PM,71 F,60 F,68 %,S,7 mph,0 mph,28.78 in,0.0 in,Thunder in the Vicinity
+"Jaffrey, NH (KAFN)",8/17/20,9:32 PM,70 F,61 F,73 %,S,6 mph,0 mph,28.77 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,9:52 PM,68 F,63 F,84 %,SW,5 mph,0 mph,28.78 in,0.0 in,Rain
+"Jaffrey, NH (KAFN)",8/17/20,10:27 PM,67 F,64 F,90 %,S,5 mph,0 mph,28.77 in,0.1 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,10:52 PM,66 F,64 F,93 %,S,3 mph,0 mph,28.77 in,0.1 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,11:17 PM,67 F,64 F,90 %,CALM,0 mph,0 mph,28.76 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,11:52 PM,67 F,64 F,90 %,VAR,3 mph,0 mph,28.75 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/17/20,11:59 PM,67 F,64 F,90 %,VAR,3 mph,0 mph,28.75 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,12:52 AM,66 F,64 F,93 %,SSW,5 mph,0 mph,28.74 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,1:38 AM,66 F,63 F,90 %,SSW,6 mph,0 mph,28.74 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,1:52 AM,66 F,63 F,90 %,SW,3 mph,0 mph,28.73 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,2:21 AM,66 F,63 F,90 %,SSW,5 mph,0 mph,28.73 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,2:52 AM,65 F,62 F,90 %,SSW,6 mph,0 mph,28.72 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,3:25 AM,65 F,62 F,90 %,SSW,5 mph,0 mph,28.71 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,3:52 AM,64 F,62 F,93 %,VAR,3 mph,0 mph,28.71 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,4:52 AM,64 F,61 F,90 %,CALM,0 mph,0 mph,28.71 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,5:11 AM,63 F,61 F,93 %,CALM,0 mph,0 mph,28.71 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,5:38 AM,63 F,61 F,93 %,S,5 mph,0 mph,28.71 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,5:52 AM,63 F,60 F,90 %,SSW,8 mph,0 mph,28.72 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,6:29 AM,63 F,61 F,93 %,VAR,3 mph,0 mph,28.73 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,6:52 AM,63 F,60 F,90 %,SSW,5 mph,0 mph,28.73 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,7:41 AM,64 F,61 F,90 %,SW,5 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,7:52 AM,64 F,61 F,90 %,VAR,5 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,8:07 AM,65 F,61 F,87 %,S,3 mph,0 mph,28.73 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,8:15 AM,65 F,61 F,87 %,WSW,3 mph,0 mph,28.73 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,8:52 AM,68 F,60 F,76 %,W,9 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,9:52 AM,71 F,58 F,63 %,WNW,8 mph,0 mph,28.74 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,10:52 AM,74 F,56 F,53 %,NW,9 mph,16 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,11:52 AM,75 F,55 F,50 %,WNW,10 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,12:52 PM,77 F,53 F,43 %,WSW,8 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,1:52 PM,78 F,50 F,37 %,WNW,7 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,2:52 PM,78 F,50 F,37 %,VAR,3 mph,0 mph,28.72 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,3:52 PM,79 F,48 F,34 %,WSW,8 mph,0 mph,28.72 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,4:52 PM,79 F,48 F,34 %,W,12 mph,20 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,5:52 PM,77 F,49 F,37 %,WNW,9 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/18/20,6:52 PM,74 F,55 F,52 %,CALM,0 mph,0 mph,28.74 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,7:52 PM,67 F,57 F,70 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,8:52 PM,62 F,56 F,80 %,CALM,0 mph,0 mph,28.78 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,9:52 PM,62 F,56 F,80 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,10:52 PM,62 F,55 F,78 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/18/20,11:52 PM,58 F,54 F,87 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,12:52 AM,57 F,53 F,87 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,1:52 AM,54 F,52 F,93 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,2:52 AM,53 F,51 F,93 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,3:52 AM,53 F,50 F,89 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,4:52 AM,52 F,49 F,89 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,5:52 AM,50 F,48 F,93 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,6:52 AM,51 F,49 F,92 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,7:52 AM,57 F,53 F,87 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,8:52 AM,63 F,53 F,70 %,SSW,5 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,9:52 AM,69 F,52 F,54 %,VAR,3 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,10:52 AM,72 F,51 F,48 %,VAR,5 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,11:52 AM,74 F,47 F,38 %,VAR,3 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,12:52 PM,75 F,49 F,40 %,WNW,7 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,1:52 PM,75 F,51 F,43 %,,0 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,2:52 PM,77 F,47 F,34 %,WSW,8 mph,16 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,3:52 PM,69 F,54 F,58 %,VAR,6 mph,18 mph,28.84 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/19/20,4:52 PM,66 F,55 F,68 %,VAR,6 mph,0 mph,28.84 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/19/20,5:52 PM,73 F,49 F,42 %,VAR,5 mph,0 mph,28.84 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/19/20,6:52 PM,70 F,50 F,49 %,VAR,3 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,7:52 PM,63 F,53 F,70 %,CALM,0 mph,0 mph,28.86 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,8:52 PM,59 F,53 F,81 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,9:52 PM,56 F,52 F,87 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,10:52 PM,54 F,51 F,90 %,CALM,0 mph,0 mph,28.92 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/19/20,11:52 PM,53 F,50 F,89 %,CALM,0 mph,0 mph,28.92 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,12:52 AM,52 F,50 F,93 %,CALM,0 mph,0 mph,28.93 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/20/20,1:52 AM,52 F,49 F,89 %,CALM,0 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,2:52 AM,50 F,47 F,89 %,CALM,0 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,3:52 AM,49 F,46 F,90 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,4:52 AM,48 F,45 F,89 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,5:52 AM,47 F,44 F,90 %,CALM,0 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,6:28 AM,47 F,44 F,90 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/20/20,6:36 AM,48 F,45 F,89 %,S,3 mph,0 mph,28.96 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/20/20,6:52 AM,49 F,46 F,90 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/20/20,7:04 AM,50 F,47 F,89 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/20/20,7:52 AM,55 F,52 F,89 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,8:52 AM,64 F,53 F,67 %,VAR,3 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,9:52 AM,66 F,48 F,52 %,WSW,9 mph,0 mph,28.99 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,10:52 AM,68 F,48 F,49 %,WNW,5 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,11:52 AM,71 F,47 F,42 %,NNW,9 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,12:52 PM,73 F,47 F,39 %,W,12 mph,0 mph,28.95 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/20/20,1:52 PM,73 F,47 F,39 %,VAR,3 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,2:52 PM,76 F,45 F,33 %,VAR,6 mph,0 mph,28.92 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,3:52 PM,75 F,46 F,36 %,VAR,6 mph,0 mph,28.91 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,4:52 PM,76 F,47 F,36 %,W,8 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,5:52 PM,75 F,47 F,37 %,W,9 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,6:52 PM,73 F,48 F,41 %,VAR,5 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,7:52 PM,67 F,51 F,57 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,8:52 PM,59 F,51 F,75 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,9:52 PM,57 F,51 F,81 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,10:52 PM,56 F,51 F,84 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/20/20,11:52 PM,54 F,50 F,86 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,12:52 AM,54 F,50 F,86 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,1:52 AM,53 F,50 F,89 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,2:52 AM,52 F,49 F,89 %,S,5 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,3:52 AM,53 F,51 F,93 %,S,3 mph,0 mph,28.88 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,4:52 AM,52 F,50 F,93 %,CALM,0 mph,0 mph,28.87 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,5:52 AM,52 F,50 F,93 %,S,3 mph,0 mph,28.86 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,6:52 AM,53 F,51 F,93 %,S,3 mph,0 mph,28.86 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,7:52 AM,60 F,54 F,80 %,S,6 mph,0 mph,28.87 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,8:52 AM,65 F,54 F,68 %,SW,9 mph,0 mph,28.86 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,9:52 AM,71 F,55 F,57 %,SSW,8 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,10:52 AM,74 F,55 F,52 %,SW,8 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,11:52 AM,79 F,53 F,40 %,W,8 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,12:52 PM,81 F,53 F,38 %,W,10 mph,17 mph,28.80 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,1:52 PM,83 F,54 F,37 %,WSW,8 mph,16 mph,28.79 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,2:52 PM,84 F,54 F,35 %,VAR,6 mph,0 mph,28.78 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,3:52 PM,85 F,54 F,34 %,W,8 mph,20 mph,28.76 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,4:52 PM,84 F,52 F,33 %,WSW,8 mph,0 mph,28.76 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,5:52 PM,83 F,53 F,36 %,VAR,5 mph,0 mph,28.77 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,6:52 PM,78 F,56 F,46 %,VAR,3 mph,0 mph,28.79 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/21/20,7:52 PM,73 F,57 F,57 %,CALM,0 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/21/20,8:52 PM,68 F,58 F,70 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/21/20,9:52 PM,66 F,58 F,75 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,10:52 PM,64 F,58 F,80 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/21/20,11:52 PM,62 F,57 F,84 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,12:52 AM,60 F,57 F,90 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,1:52 AM,59 F,56 F,90 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,2:52 AM,58 F,55 F,90 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,3:52 AM,58 F,55 F,90 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,4:52 AM,57 F,54 F,89 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,5:52 AM,56 F,54 F,93 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,6:52 AM,57 F,54 F,89 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,7:52 AM,63 F,59 F,87 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,8:52 AM,70 F,60 F,71 %,SSW,3 mph,0 mph,28.84 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/22/20,9:52 AM,73 F,60 F,64 %,SSW,3 mph,0 mph,28.85 in,0.0 in,Thunder in the Vicinity
+"Jaffrey, NH (KAFN)",8/22/20,10:02 AM,72 F,62 F,71 %,CALM,0 mph,0 mph,28.87 in,0.2 in,T-Storm
+"Jaffrey, NH (KAFN)",8/22/20,10:11 AM,68 F,63 F,84 %,VAR,5 mph,0 mph,28.87 in,0.2 in,Light Rain with Thunder
+"Jaffrey, NH (KAFN)",8/22/20,10:13 AM,68 F,63 F,84 %,VAR,3 mph,0 mph,28.87 in,0.2 in,Light Rain with Thunder
+"Jaffrey, NH (KAFN)",8/22/20,10:31 AM,69 F,65 F,87 %,CALM,0 mph,0 mph,28.86 in,0.2 in,Thunder in the Vicinity
+"Jaffrey, NH (KAFN)",8/22/20,10:40 AM,71 F,64 F,78 %,CALM,0 mph,0 mph,28.87 in,0.2 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,10:52 AM,73 F,65 F,76 %,CALM,0 mph,0 mph,28.87 in,0.2 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,11:52 AM,74 F,62 F,66 %,WSW,7 mph,0 mph,28.87 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,12:52 PM,74 F,62 F,66 %,WSW,6 mph,0 mph,28.86 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/22/20,1:52 PM,77 F,63 F,62 %,VAR,5 mph,0 mph,28.85 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/22/20,2:52 PM,81 F,62 F,52 %,VAR,6 mph,17 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,3:52 PM,82 F,60 F,47 %,WNW,12 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,4:52 PM,82 F,59 F,45 %,WNW,8 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,5:52 PM,82 F,59 F,45 %,W,6 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,6:52 PM,76 F,63 F,64 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,7:52 PM,70 F,64 F,81 %,S,3 mph,0 mph,28.87 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,8:52 PM,67 F,62 F,84 %,S,3 mph,0 mph,28.89 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,9:52 PM,67 F,63 F,87 %,CALM,0 mph,0 mph,28.91 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/22/20,10:52 PM,65 F,62 F,90 %,CALM,0 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/22/20,11:52 PM,63 F,61 F,93 %,CALM,0 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,12:52 AM,62 F,59 F,90 %,CALM,0 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,1:52 AM,60 F,57 F,90 %,CALM,0 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,2:52 AM,59 F,56 F,90 %,CALM,0 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,3:22 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/23/20,3:31 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,28.94 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/23/20,3:52 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,28.94 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/23/20,4:30 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/23/20,4:52 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,5:52 AM,56 F,54 F,93 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,6:52 AM,57 F,54 F,89 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,7:52 AM,62 F,59 F,90 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,8:52 AM,71 F,63 F,75 %,S,3 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,9:52 AM,76 F,63 F,64 %,S,6 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,10:52 AM,79 F,62 F,56 %,SW,7 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,11:52 AM,83 F,63 F,51 %,WSW,9 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,12:52 PM,86 F,64 F,48 %,S,9 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,1:52 PM,85 F,63 F,48 %,WSW,7 mph,0 mph,28.93 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/23/20,2:02 PM,84 F,64 F,51 %,SSW,7 mph,0 mph,28.92 in,0.0 in,Thunder in the Vicinity
+"Jaffrey, NH (KAFN)",8/23/20,2:45 PM,75 F,67 F,76 %,NNE,5 mph,17 mph,28.91 in,0.0 in,Light Rain with Thunder
+"Jaffrey, NH (KAFN)",8/23/20,2:52 PM,74 F,68 F,82 %,VAR,5 mph,0 mph,28.92 in,0.0 in,Light Rain with Thunder
+"Jaffrey, NH (KAFN)",8/23/20,3:02 PM,73 F,63 F,71 %,SSW,14 mph,22 mph,28.93 in,0.1 in,T-Storm
+"Jaffrey, NH (KAFN)",8/23/20,3:11 PM,70 F,60 F,71 %,SSW,13 mph,23 mph,28.95 in,0.1 in,T-Storm
+"Jaffrey, NH (KAFN)",8/23/20,3:48 PM,68 F,64 F,88 %,SSW,5 mph,0 mph,28.94 in,0.1 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/23/20,3:49 PM,68 F,64 F,87 %,SSW,5 mph,0 mph,28.94 in,0.1 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,4:52 PM,73 F,66 F,79 %,SW,5 mph,0 mph,28.92 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,5:52 PM,72 F,66 F,81 %,SSW,3 mph,0 mph,28.91 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,6:52 PM,72 F,68 F,87 %,CALM,0 mph,0 mph,28.92 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,7:52 PM,70 F,64 F,81 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/23/20,8:52 PM,69 F,64 F,84 %,SSW,6 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,9:52 PM,68 F,63 F,84 %,SSW,6 mph,0 mph,28.98 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,10:52 PM,67 F,63 F,87 %,SSW,3 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/23/20,11:52 PM,65 F,62 F,90 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,12:52 AM,64 F,62 F,93 %,S,5 mph,0 mph,28.96 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,1:52 AM,64 F,61 F,90 %,S,6 mph,0 mph,28.95 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,2:52 AM,65 F,62 F,90 %,S,5 mph,0 mph,28.94 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,3:52 AM,63 F,61 F,93 %,S,5 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,4:52 AM,65 F,62 F,90 %,S,6 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,5:52 AM,66 F,63 F,90 %,CALM,0 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,6:52 AM,66 F,63 F,90 %,S,3 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,7:52 AM,67 F,64 F,90 %,SSE,3 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,8:52 AM,69 F,65 F,87 %,SSW,3 mph,0 mph,28.93 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/24/20,9:27 AM,69 F,66 F,90 %,SSW,7 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,9:52 AM,72 F,66 F,81 %,SSW,3 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,10:52 AM,79 F,67 F,66 %,VAR,3 mph,0 mph,28.93 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,11:52 AM,81 F,67 F,62 %,CALM,0 mph,0 mph,28.92 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/24/20,12:52 PM,84 F,64 F,51 %,SSE,3 mph,0 mph,28.91 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,1:52 PM,87 F,59 F,39 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,2:52 PM,85 F,60 F,43 %,W,3 mph,0 mph,28.86 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,3:52 PM,80 F,66 F,62 %,SSW,6 mph,0 mph,28.85 in,0.0 in,Light Rain
+"Jaffrey, NH (KAFN)",8/24/20,4:52 PM,81 F,65 F,58 %,SSW,7 mph,0 mph,28.85 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,5:52 PM,80 F,65 F,60 %,SW,5 mph,0 mph,28.84 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,6:52 PM,79 F,68 F,69 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,7:52 PM,73 F,68 F,84 %,S,5 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,8:52 PM,73 F,66 F,79 %,SSW,3 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,9:52 PM,70 F,66 F,87 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,10:52 PM,67 F,65 F,93 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/24/20,11:52 PM,67 F,64 F,90 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,12:52 AM,66 F,64 F,93 %,S,3 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,1:52 AM,66 F,64 F,93 %,CALM,0 mph,0 mph,28.78 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,2:52 AM,67 F,64 F,90 %,SSE,3 mph,0 mph,28.76 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,3:52 AM,67 F,65 F,93 %,S,3 mph,0 mph,28.75 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,4:31 AM,66 F,63 F,90 %,S,3 mph,0 mph,28.74 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/25/20,4:42 AM,67 F,65 F,93 %,S,3 mph,0 mph,28.74 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/25/20,4:48 AM,66 F,64 F,94 %,CALM,0 mph,0 mph,28.74 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/25/20,4:52 AM,67 F,65 F,93 %,CALM,0 mph,0 mph,28.74 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/25/20,4:59 AM,67 F,65 F,93 %,SSE,3 mph,0 mph,28.73 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/25/20,5:52 AM,67 F,66 F,97 %,SSW,5 mph,0 mph,28.73 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/25/20,6:04 AM,67 F,65 F,93 %,SSW,6 mph,0 mph,28.73 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/25/20,6:14 AM,67 F,65 F,93 %,SSW,7 mph,0 mph,28.73 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/25/20,6:38 AM,67 F,65 F,93 %,S,6 mph,0 mph,28.73 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/25/20,6:40 AM,67 F,65 F,93 %,SSW,6 mph,0 mph,28.73 in,0.0 in,Fog
+"Jaffrey, NH (KAFN)",8/25/20,6:48 AM,66 F,64 F,94 %,SSW,5 mph,0 mph,28.73 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/25/20,6:52 AM,67 F,66 F,97 %,SSW,3 mph,0 mph,28.72 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/25/20,7:52 AM,67 F,66 F,97 %,SSW,7 mph,0 mph,28.71 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,8:52 AM,69 F,66 F,90 %,SSW,7 mph,0 mph,28.67 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,9:52 AM,72 F,66 F,81 %,S,8 mph,0 mph,28.68 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,10:52 AM,77 F,64 F,64 %,WSW,7 mph,0 mph,28.68 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,11:52 AM,80 F,61 F,52 %,W,13 mph,20 mph,28.66 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,12:52 PM,82 F,60 F,47 %,WNW,10 mph,17 mph,28.64 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,1:52 PM,84 F,59 F,43 %,W,9 mph,20 mph,28.63 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/25/20,2:52 PM,80 F,60 F,50 %,VAR,6 mph,0 mph,28.61 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/25/20,3:52 PM,81 F,61 F,50 %,WSW,10 mph,18 mph,28.60 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/25/20,4:52 PM,81 F,60 F,49 %,WNW,9 mph,0 mph,28.60 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/25/20,5:52 PM,75 F,59 F,57 %,VAR,7 mph,25 mph,28.62 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/25/20,6:52 PM,74 F,61 F,64 %,VAR,7 mph,0 mph,28.62 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/25/20,7:52 PM,73 F,55 F,53 %,NNW,8 mph,0 mph,28.64 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,8:52 PM,70 F,56 F,61 %,VAR,7 mph,0 mph,28.68 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,9:52 PM,68 F,54 F,61 %,NNW,9 mph,17 mph,28.71 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,10:52 PM,66 F,52 F,60 %,VAR,7 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/25/20,11:52 PM,64 F,51 F,63 %,VAR,6 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,12:52 AM,62 F,46 F,56 %,VAR,5 mph,0 mph,28.74 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,1:52 AM,61 F,46 F,58 %,VAR,7 mph,0 mph,28.75 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,2:52 AM,59 F,45 F,60 %,VAR,7 mph,0 mph,28.75 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,3:52 AM,58 F,45 F,62 %,NNW,8 mph,0 mph,28.75 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,4:52 AM,57 F,44 F,62 %,NW,8 mph,0 mph,28.76 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,5:52 AM,56 F,43 F,62 %,VAR,7 mph,16 mph,28.78 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,6:52 AM,55 F,42 F,62 %,VAR,6 mph,0 mph,28.80 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,7:52 AM,56 F,42 F,60 %,VAR,5 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,8:52 AM,56 F,42 F,60 %,NNW,8 mph,20 mph,28.80 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,9:52 AM,57 F,42 F,57 %,VAR,7 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,10:52 AM,60 F,40 F,47 %,VAR,7 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,11:52 AM,64 F,39 F,40 %,NNW,9 mph,16 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,12:52 PM,67 F,35 F,31 %,VAR,7 mph,18 mph,28.77 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,1:52 PM,68 F,35 F,30 %,NNW,8 mph,17 mph,28.75 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,2:52 PM,69 F,38 F,32 %,WNW,10 mph,20 mph,28.76 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,3:52 PM,70 F,40 F,33 %,NW,9 mph,22 mph,28.75 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,4:52 PM,70 F,35 F,28 %,WNW,12 mph,23 mph,28.75 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,5:52 PM,69 F,36 F,30 %,VAR,7 mph,18 mph,28.75 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,6:52 PM,67 F,40 F,37 %,W,9 mph,0 mph,28.74 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,7:52 PM,62 F,44 F,52 %,CALM,0 mph,0 mph,28.74 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,8:52 PM,60 F,43 F,53 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,9:52 PM,60 F,43 F,53 %,VAR,5 mph,0 mph,28.77 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,10:52 PM,60 F,41 F,49 %,CALM,0 mph,0 mph,28.77 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/26/20,11:52 PM,58 F,41 F,53 %,CALM,0 mph,0 mph,28.78 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",8/27/20,12:52 AM,59 F,41 F,51 %,VAR,5 mph,0 mph,28.78 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",8/27/20,1:52 AM,57 F,41 F,55 %,W,5 mph,0 mph,28.76 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",8/27/20,2:52 AM,51 F,44 F,77 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Fair
@@ -184,6 +734,46 @@
 "Jaffrey, NH (KAFN)",8/27/20,9:52 PM,60 F,57 F,90 %,CALM,0 mph,0 mph,28.63 in,0.0 in,Cloudy
 "Jaffrey, NH (KAFN)",8/27/20,10:52 PM,59 F,57 F,93 %,CALM,0 mph,0 mph,28.63 in,0.0 in,Cloudy
 "Jaffrey, NH (KAFN)",8/27/20,11:52 PM,57 F,55 F,93 %,SSE,3 mph,0 mph,28.65 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,12:52 AM,58 F,55 F,90 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,1:33 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,28.64 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,1:47 AM,57 F,55 F,94 %,CALM,0 mph,0 mph,28.64 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,1:52 AM,58 F,55 F,90 %,CALM,0 mph,0 mph,28.64 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,2:26 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,28.64 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,2:52 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,3:12 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,3:40 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,3:52 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,4:02 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,4:14 AM,56 F,54 F,93 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,4:25 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.66 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,4:36 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.66 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,4:50 AM,57 F,55 F,94 %,CALM,0 mph,0 mph,28.66 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,4:52 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.66 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,5:19 AM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.68 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,5:32 AM,56 F,54 F,93 %,CALM,0 mph,0 mph,28.68 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,5:44 AM,56 F,54 F,93 %,CALM,0 mph,0 mph,28.68 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,5:52 AM,56 F,54 F,93 %,CALM,0 mph,0 mph,28.69 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,6:01 AM,56 F,54 F,93 %,CALM,0 mph,0 mph,28.69 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,6:52 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,28.71 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,7:52 AM,60 F,57 F,90 %,W,3 mph,0 mph,28.71 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,8:10 AM,60 F,58 F,93 %,CALM,0 mph,0 mph,28.72 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,8:52 AM,64 F,59 F,84 %,CALM,0 mph,0 mph,28.72 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,9:52 AM,67 F,59 F,76 %,,0 mph,0 mph,28.73 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,10:02 AM,69 F,58 F,68 %,VAR,7 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,10:52 AM,69 F,57 F,65 %,W,8 mph,17 mph,28.72 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/28/20,11:52 AM,71 F,58 F,63 %,NW,8 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/28/20,12:52 PM,73 F,57 F,57 %,WNW,8 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/28/20,1:52 PM,74 F,57 F,55 %,W,10 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,2:52 PM,73 F,57 F,57 %,WNW,8 mph,0 mph,28.73 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,3:52 PM,73 F,56 F,55 %,NW,8 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,4:52 PM,75 F,55 F,50 %,NNW,5 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/28/20,5:52 PM,73 F,55 F,53 %,CALM,0 mph,0 mph,28.72 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,6:52 PM,70 F,59 F,68 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/28/20,7:52 PM,65 F,58 F,78 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/28/20,8:52 PM,62 F,58 F,86 %,CALM,0 mph,0 mph,28.74 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/28/20,9:52 PM,59 F,56 F,90 %,CALM,0 mph,0 mph,28.74 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/28/20,10:52 PM,59 F,56 F,90 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/28/20,11:52 PM,57 F,55 F,93 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",8/29/20,12:52 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
 "Jaffrey, NH (KAFN)",8/29/20,1:52 AM,58 F,56 F,93 %,CALM,0 mph,0 mph,28.72 in,0.0 in,Cloudy
 "Jaffrey, NH (KAFN)",8/29/20,2:49 AM,57 F,55 F,94 %,CALM,0 mph,0 mph,28.71 in,0.0 in,Mostly Cloudy
@@ -240,6 +830,30 @@
 "Jaffrey, NH (KAFN)",8/29/20,10:00 PM,71 F,66 F,84 %,WSW,7 mph,21 mph,28.36 in,0.0 in,Light Rain
 "Jaffrey, NH (KAFN)",8/29/20,10:52 PM,69 F,64 F,84 %,SW,5 mph,0 mph,28.37 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",8/29/20,11:52 PM,67 F,61 F,81 %,SW,7 mph,0 mph,28.38 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,12:52 AM,66 F,58 F,75 %,VAR,5 mph,0 mph,28.38 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,1:52 AM,64 F,57 F,78 %,VAR,3 mph,0 mph,28.39 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,2:52 AM,63 F,54 F,72 %,W,8 mph,0 mph,28.38 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,3:52 AM,62 F,53 F,72 %,W,6 mph,0 mph,28.39 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,4:52 AM,62 F,52 F,70 %,VAR,3 mph,0 mph,28.39 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,5:52 AM,60 F,52 F,75 %,CALM,0 mph,0 mph,28.41 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,6:52 AM,58 F,53 F,84 %,CALM,0 mph,0 mph,28.44 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,7:52 AM,63 F,54 F,72 %,VAR,5 mph,0 mph,28.46 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,8:52 AM,65 F,52 F,63 %,NW,8 mph,0 mph,28.49 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/30/20,9:52 AM,67 F,51 F,57 %,NNW,10 mph,0 mph,28.53 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/30/20,10:52 AM,66 F,48 F,52 %,VAR,7 mph,20 mph,28.56 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",8/30/20,11:52 AM,66 F,47 F,50 %,W,9 mph,23 mph,28.58 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/30/20,12:52 PM,66 F,49 F,54 %,NW,8 mph,0 mph,28.60 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/30/20,1:52 PM,66 F,47 F,50 %,NW,9 mph,0 mph,28.63 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",8/30/20,2:52 PM,68 F,46 F,45 %,WNW,10 mph,25 mph,28.65 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/30/20,3:52 PM,69 F,46 F,44 %,NNW,8 mph,0 mph,28.67 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",8/30/20,4:52 PM,67 F,44 F,44 %,NW,9 mph,0 mph,28.70 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,5:52 PM,67 F,44 F,44 %,NW,8 mph,16 mph,28.72 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,6:52 PM,65 F,45 F,48 %,VAR,6 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,7:52 PM,61 F,46 F,58 %,CALM,0 mph,0 mph,28.76 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,8:52 PM,54 F,48 F,80 %,SSE,3 mph,0 mph,28.80 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,9:52 PM,53 F,48 F,83 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,10:52 PM,51 F,48 F,89 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",8/30/20,11:52 PM,49 F,46 F,90 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",8/31/20,12:52 AM,51 F,47 F,86 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",8/31/20,1:52 AM,49 F,46 F,90 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",8/31/20,2:52 AM,47 F,45 F,93 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Fair
@@ -264,49 +878,30 @@
 "Jaffrey, NH (KAFN)",8/31/20,9:52 PM,54 F,52 F,93 %,CALM,0 mph,0 mph,29.03 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",8/31/20,10:52 PM,54 F,51 F,90 %,CALM,0 mph,0 mph,29.05 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",8/31/20,11:52 PM,54 F,51 F,90 %,CALM,0 mph,0 mph,29.05 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/4/20,12:52 AM,67 F,62 F,84 %,CALM,0 mph,0 mph,29.00 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,1:52 AM,67 F,63 F,87 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,2:52 AM,67 F,63 F,87 %,NNE,5 mph,0 mph,28.95 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,3:52 AM,66 F,64 F,93 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/4/20,4:52 AM,67 F,64 F,90 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
-"Jaffrey, NH (KAFN)",8/4/20,5:52 AM,67 F,64 F,90 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,6:52 AM,67 F,64 F,90 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,7:52 AM,68 F,65 F,90 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,8:52 AM,69 F,65 F,87 %,CALM,0 mph,0 mph,28.98 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,9:52 AM,70 F,65 F,84 %,VAR,3 mph,0 mph,28.97 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,10:52 AM,72 F,66 F,81 %,VAR,3 mph,0 mph,28.95 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,11:12 AM,73 F,66 F,79 %,CALM,0 mph,0 mph,28.96 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,11:52 AM,75 F,67 F,76 %,VAR,5 mph,0 mph,28.93 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,12:52 PM,74 F,68 F,82 %,VAR,3 mph,0 mph,28.91 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,1:17 PM,75 F,68 F,79 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,1:38 PM,74 F,68 F,82 %,VAR,7 mph,0 mph,28.87 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,1:52 PM,75 F,68 F,79 %,VAR,6 mph,0 mph,28.85 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,2:19 PM,73 F,68 F,84 %,,0 mph,0 mph,28.82 in,0.1 in,Heavy Rain
-"Jaffrey, NH (KAFN)",8/4/20,2:26 PM,72 F,67 F,84 %,VAR,5 mph,0 mph,28.82 in,0.2 in,Light Rain
-"Jaffrey, NH (KAFN)",8/4/20,2:38 PM,72 F,69 F,91 %,CALM,0 mph,0 mph,28.79 in,0.2 in,Light Rain
-"Jaffrey, NH (KAFN)",8/4/20,2:44 PM,73 F,70 F,90 %,VAR,7 mph,0 mph,28.79 in,0.2 in,Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,2:52 PM,74 F,70 F,87 %,VAR,5 mph,0 mph,28.77 in,0.3 in,Light Rain
-"Jaffrey, NH (KAFN)",8/4/20,3:23 PM,75 F,70 F,84 %,VAR,6 mph,0 mph,28.73 in,0.1 in,Light Rain
-"Jaffrey, NH (KAFN)",8/4/20,3:25 PM,75 F,70 F,84 %,VAR,6 mph,0 mph,28.73 in,0.1 in,Heavy Rain
-"Jaffrey, NH (KAFN)",8/4/20,3:34 PM,74 F,69 F,85 %,VAR,6 mph,0 mph,28.71 in,0.1 in,Light Rain
-"Jaffrey, NH (KAFN)",8/4/20,3:52 PM,73 F,69 F,87 %,,0 mph,0 mph,28.67 in,0.1 in,Light Rain
-"Jaffrey, NH (KAFN)",8/4/20,4:26 PM,74 F,69 F,85 %,SE,10 mph,24 mph,28.62 in,0.1 in,Heavy Rain
-"Jaffrey, NH (KAFN)",8/4/20,4:37 PM,74 F,69 F,85 %,SE,12 mph,23 mph,28.61 in,0.1 in,Light Rain
-"Jaffrey, NH (KAFN)",8/4/20,4:49 PM,73 F,70 F,88 %,SSE,9 mph,25 mph,28.59 in,0.2 in,Light Rain
-"Jaffrey, NH (KAFN)",8/4/20,4:59 PM,73 F,70 F,90 %,VAR,7 mph,17 mph,28.58 in,0.0 in,Rain
-"Jaffrey, NH (KAFN)",8/4/20,5:08 PM,74 F,70 F,87 %,SSE,13 mph,26 mph,28.60 in,0.1 in,Rain
-"Jaffrey, NH (KAFN)",8/4/20,5:20 PM,75 F,70 F,84 %,SSE,13 mph,28 mph,28.57 in,0.1 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,5:52 PM,75 F,69 F,82 %,SSE,17 mph,30 mph,28.53 in,0.1 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,6:52 PM,70 F,65 F,84 %,SSE,22 mph,39 mph,28.53 in,0.0 in,Light Rain / Windy
-"Jaffrey, NH (KAFN)",8/4/20,7:52 PM,69 F,64 F,84 %,S,20 mph,31 mph,28.55 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,8:08 PM,69 F,64 F,84 %,S,17 mph,33 mph,28.56 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,8:15 PM,69 F,64 F,84 %,S,21 mph,33 mph,28.57 in,0.0 in,Cloudy / Windy
-"Jaffrey, NH (KAFN)",8/4/20,8:52 PM,69 F,64 F,84 %,SSW,22 mph,46 mph,28.61 in,0.0 in,Light Rain / Windy
-"Jaffrey, NH (KAFN)",8/4/20,9:07 PM,69 F,64 F,84 %,SW,23 mph,40 mph,28.64 in,0.0 in,Cloudy / Windy
-"Jaffrey, NH (KAFN)",8/4/20,9:52 PM,69 F,64 F,84 %,SSW,15 mph,28 mph,28.71 in,0.0 in,Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,10:33 PM,68 F,63 F,84 %,SSW,12 mph,22 mph,28.74 in,0.0 in,Mostly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,10:52 PM,68 F,63 F,84 %,SSW,10 mph,20 mph,28.75 in,0.0 in,Partly Cloudy
-"Jaffrey, NH (KAFN)",8/4/20,11:52 PM,67 F,63 F,87 %,SSW,12 mph,20 mph,28.78 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,12:52 AM,54 F,52 F,93 %,CALM,0 mph,0 mph,29.05 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,1:52 AM,53 F,51 F,93 %,CALM,0 mph,0 mph,29.04 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,2:52 AM,52 F,50 F,93 %,CALM,0 mph,0 mph,29.06 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,3:52 AM,51 F,49 F,92 %,CALM,0 mph,0 mph,29.07 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,4:52 AM,51 F,49 F,92 %,CALM,0 mph,0 mph,29.07 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",9/1/20,5:52 AM,51 F,49 F,92 %,CALM,0 mph,0 mph,29.08 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",9/1/20,6:52 AM,51 F,49 F,92 %,CALM,0 mph,0 mph,29.09 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,7:52 AM,56 F,53 F,90 %,CALM,0 mph,0 mph,29.09 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,8:52 AM,63 F,57 F,81 %,CALM,0 mph,0 mph,29.09 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,9:52 AM,66 F,55 F,68 %,S,5 mph,0 mph,29.10 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,10:52 AM,68 F,51 F,55 %,VAR,6 mph,0 mph,29.11 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,11:52 AM,70 F,49 F,47 %,SSE,10 mph,0 mph,29.10 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,12:52 PM,71 F,50 F,47 %,S,12 mph,16 mph,29.09 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,1:52 PM,73 F,51 F,46 %,S,7 mph,16 mph,29.07 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,2:52 PM,74 F,51 F,45 %,VAR,6 mph,0 mph,29.05 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/1/20,3:52 PM,74 F,54 F,50 %,SSE,8 mph,0 mph,29.04 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",9/1/20,4:52 PM,74 F,54 F,50 %,VAR,7 mph,0 mph,29.04 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/1/20,5:52 PM,72 F,57 F,59 %,SSE,5 mph,0 mph,29.04 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/1/20,6:52 PM,70 F,58 F,65 %,VAR,3 mph,0 mph,29.05 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/1/20,7:52 PM,67 F,56 F,68 %,VAR,3 mph,0 mph,29.05 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",9/1/20,8:52 PM,65 F,54 F,68 %,VAR,5 mph,0 mph,29.07 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/1/20,9:52 PM,64 F,54 F,70 %,VAR,3 mph,0 mph,29.06 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",9/1/20,10:52 PM,63 F,54 F,72 %,CALM,0 mph,0 mph,29.07 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/1/20,11:52 PM,61 F,54 F,78 %,CALM,0 mph,0 mph,29.05 in,0.0 in,Mostly Cloudy
 "Jaffrey, NH (KAFN)",9/2/20,12:52 AM,59 F,54 F,83 %,CALM,0 mph,0 mph,29.04 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",9/2/20,1:52 AM,57 F,54 F,89 %,CALM,0 mph,0 mph,29.02 in,0.0 in,Fair
 "Jaffrey, NH (KAFN)",9/2/20,2:52 AM,59 F,52 F,78 %,CALM,0 mph,0 mph,28.99 in,0.0 in,Fair
@@ -356,3 +951,33 @@
 "Jaffrey, NH (KAFN)",9/2/20,9:52 PM,67 F,65 F,93 %,S,6 mph,0 mph,28.72 in,0.0 in,Cloudy
 "Jaffrey, NH (KAFN)",9/2/20,10:52 PM,69 F,67 F,93 %,SSW,7 mph,0 mph,28.72 in,0.0 in,Cloudy
 "Jaffrey, NH (KAFN)",9/2/20,11:52 PM,70 F,68 F,93 %,SSW,9 mph,0 mph,28.71 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,12:52 AM,70 F,68 F,93 %,SSW,9 mph,0 mph,28.71 in,0.0 in,Rain
+"Jaffrey, NH (KAFN)",9/3/20,1:42 AM,71 F,69 F,93 %,SSW,8 mph,0 mph,28.70 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,1:52 AM,71 F,69 F,93 %,S,7 mph,0 mph,28.70 in,0.0 in,Light Rain
+"Jaffrey, NH (KAFN)",9/3/20,2:35 AM,71 F,69 F,93 %,SSW,7 mph,0 mph,28.70 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,2:52 AM,71 F,69 F,93 %,SSW,6 mph,0 mph,28.70 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,3:52 AM,71 F,69 F,93 %,WSW,5 mph,0 mph,28.70 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,4:48 AM,72 F,68 F,88 %,NW,8 mph,0 mph,28.71 in,0.0 in,Light Rain
+"Jaffrey, NH (KAFN)",9/3/20,4:52 AM,71 F,67 F,87 %,WNW,6 mph,0 mph,28.71 in,0.0 in,Light Rain
+"Jaffrey, NH (KAFN)",9/3/20,5:05 AM,69 F,65 F,87 %,W,6 mph,0 mph,28.71 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,5:52 AM,68 F,65 F,90 %,CALM,0 mph,0 mph,28.70 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,6:52 AM,65 F,63 F,93 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,7:52 AM,67 F,64 F,90 %,CALM,0 mph,0 mph,28.74 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,8:52 AM,68 F,63 F,84 %,VAR,3 mph,0 mph,28.75 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,9:52 AM,69 F,61 F,75 %,N,5 mph,0 mph,28.75 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,10:52 AM,71 F,63 F,75 %,CALM,0 mph,0 mph,28.74 in,0.0 in,Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,11:52 AM,75 F,63 F,66 %,VAR,3 mph,0 mph,28.73 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/3/20,12:07 PM,75 F,60 F,60 %,CALM,0 mph,0 mph,28.74 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,12:31 PM,76 F,61 F,60 %,VAR,5 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,12:52 PM,76 F,61 F,60 %,NNE,3 mph,0 mph,28.72 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/3/20,1:52 PM,79 F,61 F,54 %,W,6 mph,0 mph,28.71 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,2:52 PM,79 F,57 F,47 %,WSW,8 mph,0 mph,28.70 in,0.0 in,Mostly Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,3:52 PM,77 F,57 F,50 %,WSW,7 mph,0 mph,28.69 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/3/20,4:52 PM,76 F,57 F,52 %,W,6 mph,0 mph,28.68 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/3/20,5:52 PM,73 F,57 F,57 %,SSW,5 mph,0 mph,28.67 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/3/20,6:52 PM,70 F,57 F,63 %,CALM,0 mph,0 mph,28.66 in,0.0 in,Partly Cloudy
+"Jaffrey, NH (KAFN)",9/3/20,7:52 PM,67 F,57 F,70 %,SSW,3 mph,0 mph,28.68 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/3/20,8:52 PM,63 F,58 F,84 %,S,3 mph,0 mph,28.68 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/3/20,9:52 PM,61 F,56 F,83 %,CALM,0 mph,0 mph,28.68 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/3/20,10:52 PM,59 F,55 F,87 %,CALM,0 mph,0 mph,28.67 in,0.0 in,Fair
+"Jaffrey, NH (KAFN)",9/3/20,11:52 PM,60 F,56 F,86 %,CALM,0 mph,0 mph,28.67 in,0.0 in,Partly Cloudy

@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rogeramitchell/solar-panel-forecast/master?urlpath=lab) Roger
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/solar-panel-forecast/master?urlpath=lab) Fred
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/solar-panel-forecast/sklearn?urlpath=lab) Fred
 
 ## Overview 
 
